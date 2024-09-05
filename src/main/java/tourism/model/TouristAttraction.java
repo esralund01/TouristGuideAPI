@@ -4,9 +4,6 @@ public class TouristAttraction {
     private String name;
     private String description;
 
-    public TouristAttraction() {
-    }
-
     public TouristAttraction(String name, String description) {
         this.description = description;
         this.name = name;
